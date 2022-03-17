@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Image Predictor App(React js(Frontend)/Flask(Backend)) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
