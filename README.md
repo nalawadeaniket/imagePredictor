@@ -60,4 +60,4 @@ python app.py
 1. Change the URLs of the axios function to point at the intended server urls if you want to point it to local server.\
 For e.g.\
 Replace:-  url: 'https://flask-app-aniket.herokuapp.com//upload' \
-with:-  url: 'http://localhost:5000/upload' \
+with:-  url: 'http://localhost:5000/upload' 
