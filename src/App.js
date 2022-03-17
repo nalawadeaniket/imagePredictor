@@ -2,6 +2,8 @@ import React,{ Component} from 'react';
 import axios from 'axios';
 import './styles.css';
 import { CameraFeed } from './components/camera-feed';
+import PhotoCamera from '@material-ui/icons/PhotoCamera';
+import IconButton from '@material-ui/core/IconButton';
 
 class App extends Component {
   
@@ -131,7 +133,12 @@ class App extends Component {
             <div>
                 <CameraFeed sendFile={this.uploadImage} />
                 <br></br>
-                <input type="file" onChange={this.onFileChange} style={{ display: "none" }}/>
+                <input id="chooseFile" type="file" onChange={this.onFileChange} style={{ display:  }}/>
+                <label htmlFor="chooseFile">
+                  <IconButton color="primary" aria-label="upload picture" component="span">
+                  <PhotoCamera />
+                  </IconButton>
+                </label>
                 <br/>
                 <br/>
                 <button onClick={this.onFileUpload}>
