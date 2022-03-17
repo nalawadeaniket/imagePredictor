@@ -2,7 +2,7 @@
 
 This is a live PWA with React js for front-end and python flask api deployed on Heroku Cloud platform.
 
-## Available Scripts
+## React Setup
 
 In the project directory, you can run:
 
