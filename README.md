@@ -2,9 +2,7 @@
 
 This is a live PWA with React js for front-end and python flask api deployed on Heroku Cloud platform.
 
-## Screenshots
-
-![Inkedss2_LI](https://user-images.githubusercontent.com/20863253/158742219-bc6d053e-2459-41d4-97aa-8ad3a9d7158b.jpg) ![ss1](https://user-images.githubusercontent.com/20863253/158742669-6a807a91-c57d-446c-b072-b295fe6b92f4.jpeg)
+![Screenshot (300)](https://user-images.githubusercontent.com/20863253/158747491-bcd0c796-8f64-4dd5-9469-28122876789f.png)
 
 ## React Setup
 
@@ -59,6 +57,9 @@ For e.g.\
 Replace:-  url: 'https://flask-app-aniket.herokuapp.com//upload' \
 With:-  url: 'http://localhost:5000/upload' 
 
+## Screenshots
+
+![Inkedss2_LI](https://user-images.githubusercontent.com/20863253/158742219-bc6d053e-2459-41d4-97aa-8ad3a9d7158b.jpg) ![ss1](https://user-images.githubusercontent.com/20863253/158742669-6a807a91-c57d-446c-b072-b295fe6b92f4.jpeg)
 
 ## Learn More
 
