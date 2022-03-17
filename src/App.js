@@ -133,7 +133,7 @@ class App extends Component {
             <div>
                 <CameraFeed sendFile={this.uploadImage} />
                 <br></br>
-                <input id="chooseFile" type="file" onChange={this.onFileChange} />
+                <input id="chooseFile" type="file" accept="image/png, image/gif, image/jpeg" onChange={this.onFileChange} />
                 <br/>
                 <br/>
                 <button onClick={this.onFileUpload}>
