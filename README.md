@@ -4,6 +4,8 @@ This is a live PWA with React js for front-end and python flask api deployed on 
 
 ## React Setup
 
+Clone this Repo.
+
 In the project directory, you can run:
 
 ### `npm run build`
