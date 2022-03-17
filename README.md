@@ -4,7 +4,8 @@ This is a live PWA with React js for front-end and python flask api deployed on 
 
 ## Screenshots
 
-![ss1](https://user-images.githubusercontent.com/20863253/158741092-f8d35168-bc0a-402f-a337-a74e26c34416.jpeg)
+![ss1](https://user-images.githubusercontent.com/20863253/158741459-08e50c81-c4cc-404e-ad12-c56d5ed3c4e9.jpeg)
+
 
 
 ## React Setup
