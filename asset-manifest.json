@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/imagePredictor/static/css/main.fc5c2c69.css",
-    "main.js": "/imagePredictor/static/js/main.a420d485.js",
+    "main.js": "/imagePredictor/static/js/main.11548c2e.js",
     "index.html": "/imagePredictor/index.html",
     "main.fc5c2c69.css.map": "/imagePredictor/static/css/main.fc5c2c69.css.map",
-    "main.a420d485.js.map": "/imagePredictor/static/js/main.a420d485.js.map"
+    "main.11548c2e.js.map": "/imagePredictor/static/js/main.11548c2e.js.map"
   },
   "entrypoints": [
     "static/css/main.fc5c2c69.css",
-    "static/js/main.a420d485.js"
+    "static/js/main.11548c2e.js"
   ]
 }
