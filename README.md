@@ -32,7 +32,7 @@ It is already live on a cloud server.
 
 You can use the the below set of apis for your usage.
 
-Home: https://flask-app-aniket.herokuapp.com/ 
+Home: https://flask-app-aniket.herokuapp.com
 
 Upload an image file through post: https://flask-app-aniket.herokuapp.com//upload 
 
