@@ -46,7 +46,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 2. Make a copy of the the flask-api folder and open terminal in that Folder.
 
 3. Install Python packages
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 
 4. Run!
-$ python app.py
+python app.py
