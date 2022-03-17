@@ -133,7 +133,7 @@ class App extends Component {
             <div>
                 <CameraFeed sendFile={this.uploadImage} />
                 <br></br>
-                <input id="chooseFile" type="file" onChange={this.onFileChange} style={{ display:  }}/>
+                <input id="chooseFile" type="file" onChange={this.onFileChange} style={{ display: "none" }}/>
                 <label htmlFor="chooseFile">
                   <IconButton color="primary" aria-label="upload picture" component="span">
                   <PhotoCamera />
