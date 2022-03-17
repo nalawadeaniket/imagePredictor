@@ -2,8 +2,6 @@
 
 This is a live PWA with React js for front-end and python flask api deployed on Heroku Cloud platform.
 
-![Screenshot (300)](https://user-images.githubusercontent.com/20863253/158747491-bcd0c796-8f64-4dd5-9469-28122876789f.png)
-
 ## React Setup
 
 Clone this Repo.
@@ -56,6 +54,8 @@ python app.py
 For e.g.\
 Replace:-  url: 'https://flask-app-aniket.herokuapp.com//upload' \
 With:-  url: 'http://localhost:5000/upload' 
+
+![Screenshot (300)](https://user-images.githubusercontent.com/20863253/158747491-bcd0c796-8f64-4dd5-9469-28122876789f.png)
 
 ## Screenshots
 
