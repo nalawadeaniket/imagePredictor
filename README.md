@@ -43,14 +43,15 @@ It is already live on a cloud server.\
 You can use the the below set of apis for your usage.\
 Home: https://flask-app-aniket.herokuapp.com/ \
 Upload an image file through post: https://flask-app-aniket.herokuapp.com/upload \
-Upload an image file as blob through post: https://flask-app-aniket.herokuapp.com/uploadd \
+Upload an image file as blob through post: https://flask-app-aniket.herokuapp.com/uploadd 
 
 ## Local Deployment
 1. First, clone the repo
 
 2. Make a copy of the the flask-api folder and open terminal in that Folder.
 
-3. Install Python packages: /
+3. Install Python packages: \
 pip install -r requirements.txt
 
-4. Run:   python app.py
+4. Run: \
+python app.py
