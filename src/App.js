@@ -131,7 +131,8 @@ class App extends Component {
             <div>
                 <CameraFeed sendFile={this.uploadImage} />
                 <br></br>
-                <input type="file" onChange={this.onFileChange} />
+                <input type="file" onChange={this.onFileChange} style={{ display: "none" }}/>
+                <br/>
                 <br/>
                 <button onClick={this.onFileUpload}>
                   Upload & Predict
