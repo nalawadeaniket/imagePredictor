@@ -41,9 +41,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ## Flask api 
 It is already live on a cloud server. 
 
-You can use the the below set of apis for your usage.\
-Home: https://flask-app-aniket.herokuapp.com/ \
-Upload an image file through post: https://flask-app-aniket.herokuapp.com//upload \
+You can use the the below set of apis for your usage.
+
+Home: https://flask-app-aniket.herokuapp.com/ 
+
+Upload an image file through post: https://flask-app-aniket.herokuapp.com//upload 
+
 Upload an image file as blob through post: https://flask-app-aniket.herokuapp.com//uploadd 
 
 ## Local Deployment
