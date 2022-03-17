@@ -48,5 +48,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 3. Install Python packages
 $ pip install -r requirements.txt
 
-3. Run!
-4 python app.py
+4. Run!
+$ python app.py
